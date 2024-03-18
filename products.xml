@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+  <product>
+    <name>mushy peas</name>
+    <price>0.58</price>
+    <src>https://raw.githubusercontent.com/Bootcamp-Espol/FSD02/main/S03D03/clase/recursos/img/mushypeas.jpg</src>
+    <type>vegetables</type>
+  </product>
+  <product>
+    <name>corned beef</name>
+    <price>2.39</price>
+    <src>https://raw.githubusercontent.com/Bootcamp-Espol/FSD02/main/S03D03/clase/recursos/img/cornedbeef.jpg</src>
+    <type>meat</type>
+  </product>
+  <product>
+    <name>tomato soup</name>
+    <price>1.4</price>
+    <src>https://raw.githubusercontent.com/Bootcamp-Espol/FSD02/main/S03D03/clase/recursos/img/tomatosoup.jpg</src>
+    <type>soup</type>
+  </product>
+  <product>
+    <name>chopped tomatoes</name>
+    <price>0.45</price>
+    <src>https://raw.githubusercontent.com/Bootcamp-Espol/FSD02/main/S03D03/clase/recursos/img/tomato.jpg</src>
+    <type>vegetables</type>
+  </product>
+  <product>
+    <name>chicken noodle soup</name>
+    <price>1.89</price>
+    <src>https://raw.githubusercontent.com/Bootcamp-Espol/FSD02/main/S03D03/clase/recursos/img/chickennoodle.jpg</src>
+    <type>soup</type>
+  </product>
+  <product>
+    <name>carrot and coriander soup</name>
+    <price>1.49</price>
+    <src>https://raw.githubusercontent.com/Bootcamp-Espol/FSD02/main/S03D03/clase/recursos/img/carrotcoriander.jpg</src>
+    <type>soup</type>
+  </product>
+</products>
